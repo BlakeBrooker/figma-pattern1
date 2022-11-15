@@ -8,31 +8,31 @@ function setup() {
 function draw() {
     background(220); //light grey background
 
-    fill(174, 218, 252,);
+    fill(9, 9, 12);
     square(390, 350, 180);
 
-    fill(34, 46, 80,); 
+    fill(9, 9, 12); 
     square(190, 150, 180);
 
-    fill(100, 204, 0,); 
+    fill(9, 9, 12); 
     square(190, 350, 180);
 
-    fill(181, 202,141 ,); 
+    fill(9, 9, 12); 
     square(390, 150, 180);
 
-    fill(255, 725, 624,);    
+    fill(9, 9, 12);    
     circle(390,350, 180);
 
-    fill(138, 255, 193,);    
+    fill(142, 10, 1,);    
     circle(390,150, 180);
 
-    fill(93, 169, 233);    
+    fill(142, 10, 1);    
     circle(390,550, 180);
 
-    fill(118, 129, 142,);    
+    fill(142, 10, 1);    
     circle(200,350, 180);
 
-    fill(3, 94, 123,);    
+    fill(142, 10, 1);    
     circle(580,350, 180);
 
 }
